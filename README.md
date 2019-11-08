@@ -33,3 +33,4 @@ They can then login to the terminal using the IP address and port 8080
 ```
 http://{ipaddr}:8080/
 ```
+Once the window opens, click the 3 horizontal bars in the top left, hover over terminal and select "New Terminal"
