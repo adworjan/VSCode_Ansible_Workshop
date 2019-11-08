@@ -1,9 +1,9 @@
-# Ansible Workshop - Ansible for Red Hat Enterprise Linux using VSCode
+# Ansible Workshop - Ansible Workshop using VSCode
 
 Some customers are unable to access Ansible Workshops via SSH. Coder.com has open sourced its cloud-server component which allows VSCode to run on a remote server fully accessible through the browser. 
 
 # Setup
-Login to the first student server using the ip address and password found in http://{GUID}.rhdemo.io. 
+First provision the correct number of environments using RHPDS and wait until the provisioning process is complete. Once complete, login to the first student server using the ip address and password found in http://{GUID}.rhdemo.io. 
 
 > Note, you will need to perform this for each lab environment.
 
