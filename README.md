@@ -47,3 +47,7 @@ http://{ipaddr}:8080/
 Once the window opens, click the 3 horizontal bars in the top left, hover over terminal and select "New Terminal"
 
 Now begin the lab starting with the portion after logging in to the control host.
+
+---
+
+![Ansible logo](https://github.com/ansible/workshops/raw/master/images/rh-ansible-automation.png)
