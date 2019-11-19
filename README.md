@@ -18,17 +18,17 @@ tar -xvzf code-server-{version}-linux-x64.tar.gz
 ```
 cd code-server-{version}-linux-x64
 ```
-Using 2.1688-vsc1.39.2 as an example
+Using 2.1692-vsc1.39.2 as an example
 ```
-wget https://github.com/cdr/code-server/releases/download/2.1688-vsc1.39.2/code-server2.1688-vsc1.39.2-linux-x86_64.tar.gz
+wget https://github.com/cdr/code-server/releases/download/2.1692-vsc1.39.2/code-server2.1692-vsc1.39.2-linux-x86_64.tar.gz
 ```
 Then untar the file
 ```
-tar -xvzf code-server2.1688-vsc1.39.2-linux-x86_64.tar.gz 
+tar -xvzf code-server2.1692-vsc1.39.2-linux-x86_64.tar.gz 
 ```
 Next move to that directory
 ```
-cd code-server2.1688-vsc1.39.2-linux-x86_64
+cd code-server2.1692-vsc1.39.2-linux-x86_64
 ```
 Make sure you have the appropriate permisions
 ```
