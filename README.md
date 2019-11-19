@@ -44,7 +44,9 @@ They can then login to the terminal using the IP address and port 8080
 ```
 http://{ipaddr}:8080/
 ```
-Once the window opens, click the 3 horizontal bars in the top left, hover over terminal and select "New Terminal"
+You can add an Ansible extension to VS Code to provide syntax highlighting and autocomplete. To do this, click the 3 connected with one disconnected square icon on the left bar. In the search bar in the top left, type Ansible. Find the extension titled "Ansible" 0.5.2 VS Code extension for Ansible. And click Install.
+
+For students: once the window opens, click the 3 horizontal bars in the top left, hover over terminal and select "New Terminal"
 
 Now begin the lab starting with the portion after logging in to the control host.
 
