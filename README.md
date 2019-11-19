@@ -8,7 +8,7 @@ First provision the correct number of environments using RHPDS and wait until th
 > Note, you will need to perform this for each lab environment.
 
 > Note, verify you are pulling down the latest version of code-server https://github.com/codercom/code-server/releases/latest
-Enter the correct version for each of the below lines, examples are for 2.1688-vsc1.39.2: 
+Enter the correct version for each of the below lines, examples are for 2.1692-vsc1.39.2: 
 ```
 wget https://github.com/codercom/code-server/releases/download/{version}/code-server-{version}-linux-x64.tar.gz
 ```
