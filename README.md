@@ -38,8 +38,6 @@ Run the code-server without a password so students can log directly in
 ```
 nohup ./code-server --auth none &
 ```
-> You will need to keep this terminal running in order for the student to be able to login
-
 They can then login to the terminal using the IP address and port 8080
 ```
 http://{ipaddr}:8080/
