@@ -36,7 +36,7 @@ chmod +x code-server
 ```
 Run the code-server without a password so students can log directly in
 ```
-./code-server --auth none
+nohup ./code-server --auth none &
 ```
 > You will need to keep this terminal running in order for the student to be able to login
 
